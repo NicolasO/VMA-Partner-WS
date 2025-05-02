@@ -15,7 +15,7 @@ There is a unique market opportunity now (for CY25) for Red Hat to support custo
 * Scope a Proof of Concept for OpenShift Virtualization
 * Communicate technical value during the delivery of the Virtualization Roadshow.
 
-https://github.com/RHEPDS/ETX-Virt-EMEA/tree/main/etx-virt-presales-emea
+https://github.com/RHEPDS/VMA-PArtner-WS/tree/main/VMA-virt-presales-emea
 
 ### Proposed Final Outcomes Deep Dive
 
