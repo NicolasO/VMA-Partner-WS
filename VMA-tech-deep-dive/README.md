@@ -13,21 +13,19 @@
 * LAB - OpenShift Virtualization Basics
 * LAB - Network Management
 * LAB - Storage Management Lab
-### 12:00 - 1:00 Lunch
-### 01:00 - 2:45
+### 12:00 - 13:00 Lunch
+### 13:00 - 14:45
 * LAB - Introduction to virtual machine customization
 * LAB - GitOps
-### 02:45 - 03:00 BREAK
-### 03:00 - 03:30
+### 14:45 - 15:00 BREAK
+### 15:00 - 16:00
 * VMware vSphere Overview Presentation
 * VMware to OpenShift Presentation
-### 03:30 - 04:00
+### 16:00 - 17:00
 * Migration Factory
 * Deep Dive on the Migration Factory offering:
 * OpenShift Virtualization Ansible Migration Factory Collection
-### 04:00 - 05:00
-* Open Discussion
-
+----------------
 ## Agenda Day 2
 ### 09:00 - 10:00
 * showcase the VMA Analysis
