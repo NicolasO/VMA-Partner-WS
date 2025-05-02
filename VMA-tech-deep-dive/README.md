@@ -35,7 +35,7 @@
 * Migration discussion based on a real-world scenario 
 * Discussion on migration risks 
 * Estimating a project
-### 12:00 - 01:00 Lunch
+### 12:00 - 13:00 Lunch
 ### 13:00 - 16:45
 * Advanced Cluster Management for Virtualization (ACM-V)
 * Subscription offerings
