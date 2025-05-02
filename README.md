@@ -26,4 +26,4 @@ https://github.com/RHEPDS/VMA-PArtner-WS/tree/main/VMA-virt-presales-emea
 * Convey knowledge of ISV/third-party workflow ecosystems around virtualization
 * Understand Day 2 Operations with AAP 
 
-https://github.com/RHEPDS/ETX-Virt-EMEA/tree/main/etx-virt_delivery_emea
+https://github.com/RHEPDS/VMA-Partner-WS/tree/main/VMA-tech-deep-dive
