@@ -26,9 +26,20 @@
 * Deep Dive on the Migration Factory offering:
 * OpenShift Virtualization Ansible Migration Factory Collection
 ### 04:00 - 05:00
-* Open Discusson
-
+* Open Discussion
 
 ## Agenda Day 2
+### 09:00 - 10:00
+* showcase the VMA Analysis
+### 10:00 - 12:00
+* Migration discussion based on a real-world scenario 
+* Discussion on migration risks 
+* Estimating a project
+### 12:00 - 01:00 Lunch
+### 13:00 - 16:45
+* Advanced Cluster Management for Virtualization (ACM-V)
+* Subscription offerings
+* Creating a Lab/demo environment
+* Demos are available on demo.partner.redhat.com
+* Questions and recap
 
-# TBD
