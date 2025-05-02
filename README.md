@@ -1,0 +1,29 @@
+# Repository for the OpenShift Virtualisation Training
+
+Business Problem Statement 
+There is a unique market opportunity now (for CY25) for Red Hat to support customers in moving away from VMware-based infrastructure and onto an OpenShift based one due to recent moves by the new owner of VMware, Broadcom. A key business activity to drive this motion with customers is performing a Red Hat Virtualization Migration Assessment.  Currently, there are not enough technical sellers able to successfully position and get the commitment from customers to take this first step in their migration away from VMWare.
+
+## Workshop Learning Outcomes
+
+### Proposed Final Outcomes PRESALES
+
+* Identify and qualify opportunities for a Virtualization Migration Assessment.
+* Position the business and technical value of the Virtualization Migration Assessment.
+* Handle technical or business competitive situations as appropriate.
+* Determine when and where to engage an Ecosystem partner to support a Virtualization Migration Assessment.
+* Perform an upfront Technical Discovery and Risk Assessment.
+* Scope a Proof of Concept for OpenShift Virtualization
+* Communicate technical value during the delivery of the Virtualization Roadshow.
+
+https://github.com/RHEPDS/ETX-Virt-EMEA/tree/main/etx-virt-presales-emea
+
+### Proposed Final Outcomes Deep Dive
+
+* Understand Virtualization architecture design, including HCP, networking, storage, ISV considerations, and example use cases
+* Perform Production-readiness for OpenShift Virt deployments 
+* Stand up migration factory (AAP)
+* Identify, automate, and execute on migration use cases 
+* Convey knowledge of ISV/third-party workflow ecosystems around virtualization
+* Understand Day 2 Operations with AAP 
+
+https://github.com/RHEPDS/ETX-Virt-EMEA/tree/main/etx-virt_delivery_emea
