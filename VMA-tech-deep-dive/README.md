@@ -28,7 +28,7 @@
 ----------------
 ## Agenda Day 2
 ### 09:00 - 10:00
-* showcase the VMA Analysis
+* Showcase the VMA Analysis
 ### 10:00 - 12:00
 * Migration discussion based on a real-world scenario 
 * Discussion on migration risks 
