@@ -2,12 +2,11 @@
 ## Technical Deep Dive Workshop
 
 ## Agenda Day 1
-### 09:00 - 10:00
+### 09:00 - 10🕥
 * Welcome and Introductions
 * Sales Motion and Getting the Technical Win (GTM Strategy)
-*ISV Overview
-* Objectives: Understand the overall solution and GTM
-* Advanced Cluster Management for Virtualization (ACM-V)
+* OpenShift Storage
+* OpenShift Networking
 ### 10:30 - 12:00
 * All the Labs were presented and explained by the facilitator, with no hands-on  for the attendees
 * LAB - OpenShift Virtualization Basics
