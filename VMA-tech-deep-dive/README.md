@@ -2,7 +2,7 @@
 ## Technical Deep Dive Workshop
 
 ## Agenda Day 1
-### 09:00 - 10🕥
+### 09:00 - 10:15
 * Welcome and Introductions
 * Sales Motion and Getting the Technical Win (GTM Strategy)
 * OpenShift Storage
