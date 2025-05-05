@@ -17,6 +17,8 @@ There is a unique market opportunity now (for CY25) for Red Hat to support custo
 
 https://github.com/RHEPDS/VMA-PArtner-WS/tree/main/VMA-virt-presales-emea
 
+Slides: https://github.com/RHEPDS/VMA-Partner-WS/blob/main/VMA-virt-presales-emea/VMA%20Partner%20Pre%20Sales%20Workshop.pdf
+
 ### Proposed Final Outcomes Deep Dive
 
 * Understand Virtualization architecture design, including HCP, networking, storage, ISV considerations, and example use cases
