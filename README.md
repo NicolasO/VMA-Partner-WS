@@ -35,4 +35,4 @@ Slides:
 https://github.com/RHEPDS/VMA-Partner-WS/tree/main/VMA-tech-deep-dive
 
 Slides:
-* https://github.com/RHEPDS/VMA-Partner-WS/blob/main/VMA-tech-deep-dive/OpenShift%20Virtualization%20DeepDive.pdf
+* https://github.com/RHEPDS/VMA-Partner-WS/blob/main/VMA-tech-deep-dive/VMA-tech-Virtualization%20DeepDive.pdf
