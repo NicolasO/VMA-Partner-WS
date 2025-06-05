@@ -1,38 +1,42 @@
-# Repository for the OpenShift Virtualisation Training
+# OpenShift Virtualisation
+## Technical Deep Dive Workshop
 
-Business Problem Statement 
-There is a unique market opportunity now (for CY25) for Red Hat to support customers in moving away from VMware-based infrastructure and onto an OpenShift based one due to recent moves by the new owner of VMware, Broadcom. A key business activity to drive this motion with customers is performing a Red Hat Virtualization Migration Assessment.  Currently, there are not enough technical sellers able to successfully position and get the commitment from customers to take this first step in their migration away from VMWare.
+## Agenda Day 1
+### 09:00 - 10:15
+* Welcome and Introductions
+* Sales Motion and Getting the Technical Win (GTM Strategy)
+* OpenShift Storage
+* OpenShift Networking
+### 10:30 - 12:00
+* All the Labs were presented and explained by the facilitator, with no hands-on  for the attendees
+* LAB - OpenShift Virtualization Basics
+* LAB - Network Management
+* LAB - Storage Management Lab
+### 12:00 - 13:00 Lunch
+### 13:00 - 14:45
+* LAB - Introduction to virtual machine customization
+* LAB - GitOps
+### 14:45 - 15:00 BREAK
+### 15:00 - 16:00
+* VMware vSphere Overview Presentation
+* VMware to OpenShift Presentation
+### 16:00 - 17:00
+* Migration Factory
+* Deep Dive on the Migration Factory offering:
+* OpenShift Virtualization Ansible Migration Factory Collection
+----------------
+## Agenda Day 2
+### 09:00 - 10:00
+* Showcase the VMA Analysis
+### 10:00 - 12:00
+* Migration discussion based on a real-world scenario 
+* Discussion on migration risks 
+* Estimating a project
+### 12:00 - 13:00 Lunch
+### 13:00 - 16:45
+* Advanced Cluster Management for Virtualization (ACM-V)
+* Subscription offerings
+* Creating a Lab/demo environment
+* Demos are available on demo.partner.redhat.com
+* Questions and recap
 
-## Workshop Learning Outcomes
-
-### Proposed Final Outcomes PRESALES
-
-* Identify and qualify opportunities for a Virtualization Migration Assessment.
-* Position the business and technical value of the Virtualization Migration Assessment.
-* Handle technical or business competitive situations as appropriate.
-* Determine when and where to engage an Ecosystem partner to support a Virtualization Migration Assessment.
-* Perform an upfront Technical Discovery and Risk Assessment.
-* Scope a Proof of Concept for OpenShift Virtualization
-* Communicate technical value during the delivery of the Virtualization Roadshow.
-
-https://github.com/RHEPDS/VMA-PArtner-WS/tree/main/VMA-virt-presales-emea
-
-Slides: 
-* https://github.com/RHEPDS/VMA-Partner-WS/blob/main/VMA-virt-presales-emea/VMA%20Partner%20Pre%20Sales%20Workshop.pdf
-
-* Risk Assessment
-* https://github.com/RHEPDS/VMA-Partner-WS/blob/main/VMA-virt-presales-emea/Virtualization%20Migration%20-%20Upfront%20Technical%20Discovery%20%26%20Risk%20Assessment.pdf
-
-### Proposed Final Outcomes Deep Dive
-
-* Understand Virtualization architecture design, including HCP, networking, storage, ISV considerations, and example use cases
-* Perform Production-readiness for OpenShift Virt deployments 
-* Stand up migration factory (AAP)
-* Identify, automate, and execute on migration use cases 
-* Convey knowledge of ISV/third-party workflow ecosystems around virtualization
-* Understand Day 2 Operations with AAP 
-
-https://github.com/RHEPDS/VMA-Partner-WS/tree/main/VMA-tech-deep-dive
-
-Slides:
-* https://github.com/RHEPDS/VMA-Partner-WS/blob/main/VMA-tech-deep-dive/VMA-tech-Virtualization%20DeepDive.pdf
