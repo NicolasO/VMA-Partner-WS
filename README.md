@@ -1,6 +1,6 @@
 # OpenShift Virtualisation
-## The Virtualization Migration Assessment – The 
-Technical Workshop is a comprehensive three-day technical enablement program designed to prepare Red Hat field associates, partners, and consultants to engage with customers evaluating a transition from VMware-based infrastructure to Red Hat OpenShift Virtualization.
+## The Virtualization Migration Assessment
+The Technical Workshop is a comprehensive three-day technical enablement program designed to prepare Red Hat field associates, partners, and consultants to engage with customers evaluating a transition from VMware-based infrastructure to Red Hat OpenShift Virtualization.
 
 By equipping participants with the skills necessary to identify, scope, and deliver a Virtualization Migration Assessment (VMA), positioning OpenShift Virtualization as the preferred modern infrastructure solution.
 
