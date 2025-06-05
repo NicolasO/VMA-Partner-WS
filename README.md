@@ -21,11 +21,12 @@ The workshop combines presentations, practical demonstrations, and collaborative
 * OpenShift Virt - Storage
 * OpenShift Virt - Networking
 * Access to the Hands-On Lab
+### 10:15 - 10:30 BREAK
 ### 10:30 - 12:00
 * LAB - OpenShift Virtualization Basics
 * LAB - Network Management
 * LAB - Storage Management
-### 12:00 - 13:00 Lunch
+### 12:00 - 13:00 LUNCH BREAK
 ### 13:00 - 14:45
 * VMware vSphere Overview Presentation
 * VMware to OpenShift Presentation
