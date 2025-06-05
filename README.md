@@ -38,11 +38,12 @@ The workshop combines presentations, practical demonstrations, and collaborative
 * Deep Dive on the Migration Factory offering
 ----------------
 ## Agenda Day 2
-### 09:00 - 10:00
+### 09:00 - 10:15
 * Migration discussion based on a real-world scenario 
 * Discussion on migration risks 
 * Estimating a project
-### 10:00 - 12:00
+### 10:15 - 10:30 BREAK
+### 10:30 - 12:00
 * Showcase the VMA Analysis (Hands-On)
 ### 12:00 - 13:00 Lunch
 ### 13:00 - 14:45
