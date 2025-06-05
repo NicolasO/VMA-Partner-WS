@@ -17,6 +17,7 @@ The workshop combines presentations, practical demonstrations, and collaborative
 ### 09:00 - 10:15
 * Welcome and Introductions
 * Sales Motion and Getting the Technical Win (GTM Strategy)
+* OpenShift Virt Overview
 * OpenShift Virt - Storage
 * OpenShift Virt - Networking
 * Access to the Hands-On Lab
@@ -33,7 +34,7 @@ The workshop combines presentations, practical demonstrations, and collaborative
 * LAB - Migration from VMware to OpenShift
 ### 15:45 - 17:00
 * Migration Factory
-* Deep Dive on the Migration Factory offering:
+* Deep Dive on the Migration Factory offering
 ----------------
 ## Agenda Day 2
 ### 09:00 - 10:00
