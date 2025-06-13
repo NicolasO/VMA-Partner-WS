@@ -61,12 +61,13 @@ The workshop combines presentations, practical demonstrations, and collaborative
 * Presenting the GroupWork to the audience and discussion
 ### 11:30 - 11:45 BREAK
 ### 11:45 - 12:30
-* Advanced Cluster Management
-* Advanced Cluster Security
+* Choosing the right Subscription
+* Advanced Cluster Management-V
 ### 12:30 - 13:30 LUNCH
 ### 13:30 - 15:00
+* 
 * running the OpenShift Virt Roadshow (WorkShop as a Service - WaaS)
-* running the RoadSHow Light (Arcade)
-* Finding additional IInfos Resources
+* running the RoadShow Light (Arcade)
+* Finding additional Infos Resources
 ### 15:00 15:30 WrapUp and Ending the Workshop
 
