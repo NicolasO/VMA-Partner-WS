@@ -58,16 +58,15 @@ The workshop combines presentations, practical demonstrations, and collaborative
 ### 09:00 - 10:30 
 * Cont. Group Work from Day 2 
 ### 10:30 - 11:30 
-* Presenting the GroupWork to the audience and discussion
+* running the OpenShift Virt Roadshow (WorkShop as a Service - WaaS)
+* running the RoadShow Light (Arcade)
+* Finding additional Information Resources
 ### 11:30 - 11:45 BREAK
 ### 11:45 - 12:30
 * Choosing the right Subscription
 * Advanced Cluster Management-V
 ### 12:30 - 13:30 LUNCH
 ### 13:30 - 15:00
-* 
-* running the OpenShift Virt Roadshow (WorkShop as a Service - WaaS)
-* running the RoadShow Light (Arcade)
-* Finding additional Infos Resources
+* Presenting the GroupWork to the audience and discussion
 ### 15:00 15:30 WrapUp and Ending the Workshop
 
