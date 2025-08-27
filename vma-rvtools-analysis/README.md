@@ -33,16 +33,8 @@ Ensure the following are installed:
 ## Usage
 ### Setting Up the Environment
 **1. Clone the Repository**
-* If you have your SSH public key uploaded:
-```sh
-git clone ssh://git@gitlab.consulting.redhat.com:2222/ansengup/rvtools-virt-analysis.git
-```
-* If you do not have your SSH key uploaded, use HTTPS instead:
-```sh
-git clone https://gitlab.consulting.redhat.com/ansengup/rvtools-virt-analysis.git
-```
-(You will be prompted to enter your GitLab username and password.)
 
+git@github.com:RHEPDS/VMA-Partner-WS.git
 
 **2. Navigate to the Project Directory**
 ```sh
