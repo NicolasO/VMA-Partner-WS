@@ -4,9 +4,6 @@ Ansible collection for OpenShift Virtualization Migration
 
 This Ansible collection is intended only for use by approved pilot Partners and Red Hat consulting-led pilot engagements at this time. We will be making this available for all partners, in the June time frame.
 
-If you have a relevant use case, please submit your information using the form below:
-
-https://forms.gle/3oCsL8NxGiakupP59
 
 ## Description
 

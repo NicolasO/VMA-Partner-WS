@@ -14,15 +14,15 @@ The workshop combines presentations, practical demonstrations, and collaborative
 
 
 ## Agenda Day 1
-### 09:00 - 10:15
+### 09:00 - 10:35
 * Welcome and Introductions
 * Sales Motion and Getting the Technical Win (GTM Strategy)
 * OpenShift Virt Overview
 * OpenShift Virt - Storage
 * OpenShift Virt - Networking
+### 10:35 - 10:45 BREAK
+### 10:45 - 12:00
 * Access to the Hands-On Lab
-### 10:15 - 10:30 BREAK
-### 10:30 - 12:00
 * LAB - OpenShift Virtualization Basics
 * LAB - Network Management
 * LAB - Storage Management
