@@ -34,8 +34,9 @@ The workshop combines presentations, practical demonstrations, and collaborative
 ### 15:00 - 15:45
 * LAB - Migration from VMware to OpenShift
 ### 15:45 - 17:00
+* Citrix VDI Integration
 * Migration Factory
-* Deep Dive on the Migration Factory offering
+
 ----------------
 ## Agenda Day 2
 ### 09:00 - 10:15
